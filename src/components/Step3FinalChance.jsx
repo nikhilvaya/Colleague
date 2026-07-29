@@ -89,9 +89,30 @@ export const Step3FinalChance = ({ onRestart }) => {
               "Pls ek chance de..." 🥺❤️
             </p>
 
-            <p className="text-pink-200/90 text-base mb-8 max-w-md mx-auto leading-relaxed">
+            <p className="text-pink-200/90 text-base mb-6 max-w-md mx-auto leading-relaxed">
               I promise to cherish every second with you, listen more, love deeper, and make sure your cute smile never fades.
             </p>
+
+            {/* Cute Tomato Comparison Box (At the end of 10 Reasons) */}
+            <div className="mb-6 bg-red-950/40 p-4 sm:p-5 rounded-2xl border border-red-500/30 text-xs sm:text-sm text-pink-200/90 leading-relaxed text-left backdrop-blur-sm shadow-[0_0_20px_rgba(255,77,77,0.2)]">
+              <p className="font-bold text-red-300 flex items-center gap-1.5 mb-2.5 text-xs uppercase tracking-wider">
+                <span>🍅 Why You're My Tomato:</span>
+              </p>
+              <ul className="space-y-2 pl-0.5">
+                <li className="flex items-start gap-2">
+                  <span className="shrink-0 text-base">✨</span>
+                  <span><strong>Soft & Sweet:</strong> You have the kindest heart that melts me every single time.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="shrink-0 text-base">🌶️</span>
+                  <span><strong>A Little Fiery:</strong> Your adorable spicy attitude whenever you get cute angry.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="shrink-0 text-base">❤️</span>
+                  <span><strong>Essential to Life:</strong> Just like tomatoes add flavor to every dish, you bring all the happiness and flavor to my world!</span>
+                </li>
+              </ul>
+            </div>
 
             {/* Two Final Acceptance Buttons */}
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

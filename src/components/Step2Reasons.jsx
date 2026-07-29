@@ -150,9 +150,10 @@ export const Step2Reasons = ({ onNext }) => {
             </div>
 
             {/* Content Body */}
-            <p className="text-pink-100/90 text-base sm:text-lg leading-relaxed mb-6 font-normal whitespace-pre-line">
-              {currentReason.content}
-            </p>
+            <p
+              className="text-pink-100/90 text-base sm:text-lg leading-relaxed mb-6 font-normal whitespace-pre-line"
+              dangerouslySetInnerHTML={{ __html: currentReason.content }}
+            />
 
             {/* Card Footer Info */}
             <div className="pt-4 border-t border-pink-500/15 flex items-center justify-between text-xs text-pink-300/70">
