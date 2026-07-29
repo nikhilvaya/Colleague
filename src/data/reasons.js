@@ -4,7 +4,7 @@ export const reasons = [
     title: "You are my universe.",
     emoji: "🌌",
     badge: "10 Reasons Why You Are So Important in My Life ❤️",
-    content: "I don't just want to roam the world with you, I want to roam the universe with you. Every journey feels complete only when you're beside me.",
+    content: "I don’t just want to roam the world with you. I want to rhumb the verse with you, charting a path through every star, every dream, and every chapter of our forever.",
     color: "from-red-500/20 to-purple-500/20",
     accent: "#ff4d6d"
   },
@@ -13,7 +13,7 @@ export const reasons = [
     title: "You are the tea in my life. ☕",
     emoji: "☕",
     badge: "The Warmest Connection ☕",
-    content: "Just like my morning tea starts my day, you start my happiness. Just like evening tea melts away the day's tiredness, your presence melts away my stress. And you know how important our office tea breaks are? You're even more important than those. My day simply doesn't feel complete without you.",
+    content: "Just like my morning tea starts my day, you start my happiness. Just like evening tea melts away the day’s tiredness, your presence melts away my stress. And you know how important our office tea breaks are? You’re even more important than those. My day simply doesn’t feel complete without you.\n\nAbhi I am not able to have any either of the tea in a day without you.",
     color: "from-amber-500/20 to-red-500/20",
     accent: "#e63946"
   },
@@ -28,10 +28,10 @@ export const reasons = [
   },
   {
     id: 4,
-    title: "You're the real fearless one. 💪",
+    title: "You’re the real fearless spirit. 💪",
     emoji: "💪",
-    badge: "My Hero 🦸‍♀️",
-    content: "Everyone thinks I'm brave, but the truth is you're the courageous spirit between us. And yes... I'm only scared of one person, and that's you. ❤️",
+    badge: "Fearless & Courageous 🦸‍♀️",
+    content: "I’m not the fearless one. I fear only one thing in this world, and that’s losing you.",
     color: "from-red-600/20 to-orange-500/20",
     accent: "#d62828"
   },
@@ -49,7 +49,7 @@ export const reasons = [
     title: "You're actually cuter than me. 🥹",
     emoji: "🥹",
     badge: "The WhatsApp Sticker Secret 🤫",
-    content: "Remember when I said you look like that WhatsApp sticker because it's so cute? I wasn't calling the sticker cute. I was indirectly saying you are that cute. You're the reason I melt every single time.",
+    content: "Remember when I said you look like that WhatsApp sticker (cute little girls) because it’s so cute? I wasn’t calling the sticker cute. I was indirectly saying you are that cute. Jaise me woh sticker dekh k pighal jata hu wese hi me tujhe dekh k pighal jaata hu.",
     color: "from-pink-400/20 to-red-400/20",
     accent: "#c77dff"
   },
@@ -82,10 +82,10 @@ export const reasons = [
   },
   {
     id: 10,
-    title: "You are my today, tomorrow, and forever. ❤️",
+    title: "You are my Love Guru. ❤️",
     emoji: "❤️",
-    badge: "Forever & Ever 💍",
-    content: "You're not just a chapter in my life. You're the story I want to keep writing, one beautiful page at a time.",
+    badge: "My Teacher & My Love 💍",
+    content: "How could I ever love someone else when you’re the one who taught me what love truly means? Everything I’ve learned from you about caring, understanding, and loving someone… I don’t want to use it on anyone else. I want to use every lesson you’ve given me to love you, a little more, every single day.",
     color: "from-red-600/30 to-pink-600/30",
     accent: "#b7094c"
   }

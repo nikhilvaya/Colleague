@@ -150,7 +150,7 @@ export const Step2Reasons = ({ onNext }) => {
             </div>
 
             {/* Content Body */}
-            <p className="text-pink-100/90 text-base sm:text-lg leading-relaxed mb-6 font-normal">
+            <p className="text-pink-100/90 text-base sm:text-lg leading-relaxed mb-6 font-normal whitespace-pre-line">
               {currentReason.content}
             </p>
 
